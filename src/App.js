@@ -39,14 +39,6 @@ const App = () => {
       demo_link: '#',
       github_link: 'https://github.com/Pavan9567/Chat-App-Project.git',
     },
-    {
-      id: 5,
-      title: 'Message Box',
-      description: 'A simple Message Box application created by using HTML,CSS,Javascript for frontend and PHP for backend.',
-      image: 'https://via.placeholder.com/300x200',
-      demo_link: '#',
-      github_link: 'https://github.com/Pavan9567/Message-Box.git',
-    },
   ];
 
   return (
