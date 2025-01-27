@@ -1,0 +1,11 @@
+/* App-wide styles */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
+
+.App {
+  text-align: center;
+}
